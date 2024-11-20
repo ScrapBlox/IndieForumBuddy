@@ -1,6 +1,6 @@
 <div align="center">
  
-![]([https://raw.githubusercontent.com/ScrapBlox/IndieForumBuddy/refs/heads/main/images/roundedicon.png)
+![](https://raw.githubusercontent.com/ScrapBlox/IndieForumBuddy/refs/heads/main/images/roundedicon.png)
 
 # Indie Forum Buddy
 Indie Forum Buddy is an extension that allows you to find independently owned alternatives to corporate owned forums.  This extension shows a notice on the forum website and provides a notice on the search results page.
