@@ -12,7 +12,7 @@ Indie Forum Buddy is an extension that allows you to find independently owned al
 * Shows a banner on the corporate forum.
 
 # How do I add a forum website?
-You can add a forum website by making a [pull request](https://github.com/ScrapBlox/IndieForumBuddy/pulls) and updating `forums.json` or by opening an [issue](https://github.com/ScrapBlox/IndieForumBuddy/issues) with the label `add forum`
+You can add a forum website by making a [pull request](https://github.com/ScrapBlox/IndieForumBuddy/pulls) and updating `forums.json` or by opening an [issue](https://github.com/scrapblox/indieforumbuddy/issues/new?assignees=ScrapBlox&labels=add+forum&title=ADD+FORUM%3A+FORUM+NAME&body=Link+to+origin+forum%3A%0ALink+to+destination+(independent)+forum%3A) with the label `add forum`
 
 # Disclaimer
 This extension was heavily inspired by [Indie Wiki Buddy](https://github.com/KevinPayravi/indie-wiki-buddy)
