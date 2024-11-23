@@ -3,7 +3,7 @@
     "name": "Indie Forum Buddy",
     "version": "1.0.0",
     "description": "Discover independently owned forum websites and get notified when there's an indie alternative to corprete owned forum.",
-    "permissions": ["scripting"],
+    "permissions": [],
     "host_permissions": ["<all_urls>"],
   
     "web_accessible_resources": [
